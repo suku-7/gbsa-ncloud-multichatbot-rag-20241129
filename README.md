@@ -75,11 +75,11 @@ RAG 구조와 프롬프트 엔지니어링, 사용자 UX까지 고려한 실무�
 ---
 # API .env 파일
 
-## Naver Clova Studio API
-CLOVA_HOST="https://clovastudio.stream.ntruss.com"
-CLOVA_API_KEY="YOUR_CLOVA_API_KEY"
-CLOVA_API_KEY_PRIMARY_VAL="YOUR_CLOVA_API_KEY_PRIMARY_VAL"
-CLOVA_REQUEST_ID="YOUR_CLOVA_REQUEST_ID"
+## Naver Clova Studio API  
+CLOVA_HOST="https://clovastudio.stream.ntruss.com"  
+CLOVA_API_KEY="YOUR_CLOVA_API_KEY"  
+CLOVA_API_KEY_PRIMARY_VAL="YOUR_CLOVA_API_KEY_PRIMARY_VAL"  
+CLOVA_REQUEST_ID="YOUR_CLOVA_REQUEST_ID"  
 
 ## SerpAPI
 SERPAPI_API_KEY="YOUR_SERPAPI_API_KEY"
