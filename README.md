@@ -1,6 +1,5 @@
 ## 경과원AI_네이버 클라우드_개인 프로젝트_멀티 챗봇_RAG_20241129
-![05-07_clova_doublechatbot_2](https://github.com/user-attachments/assets/19c44eed-7678-4c01-b991-049be48b017e)
-
+![챗봇 화면](05-07_clova_doublechatbot_2.png)
 ---
 # 🍚 점심시간에 뭐 먹지? 🤔
 
